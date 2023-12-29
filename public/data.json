@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/VBDV7y6/person-using-ai-tool-job.jpg",
+      "title": "Exploring the Wonders of Artificial Intelligence",
+      "description": "Discover the fascinating world of artificial intelligence and its impact on various industries. This blog delves into the latest advancements and the future possibilities of AI.",
+      "author_name": "Alexandra Smith",
+      "author_designation": "AI Enthusiast and Researcher",
+      "author_image": "https://i.ibb.co/k5bsJVP/ai-generated-8432074-1280.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/kgbTSGP/portrait-woman-home-meditating.jpg",
+      "title": "The Art of Mindful Living: A Journey to Inner Peace",
+      "description": "Embark on a mindful living journey with practical tips and insights. Explore mindfulness practices that can bring peace and balance to your daily life.",
+      "author_name": "David Johnson",
+      "author_designation": "Mindfulness Coach",
+      "author_image": "https://i.ibb.co/g711zS4/young-bearded-man-with-striped-shirt.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/WyWQGq1/close-up-customers-looking-food.jpg",
+      "title": "Culinary Adventures: A Global Gastronomic Tour",
+      "description": "Take a culinary journey around the world with this blog. From street food delights to gourmet experiences, explore the diverse and delicious world of global cuisine.",
+      "author_name": "Isabella Martinez",
+      "author_designation": "Food Traveler and Blogger",
+      "author_image": "https://i.ibb.co/GchwSwQ/ai-generated-8445715-1280.png"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/VBDV7y6/person-using-ai-tool-job.jpg",
+      "title": "Exploring the Wonders of Artificial Intelligence",
+      "description": "Discover the fascinating world of artificial intelligence and its impact on various industries. This blog delves into the latest advancements and the future possibilities of AI.",
+      "author_name": "Alexandra Smith",
+      "author_designation": "AI Enthusiast and Researcher",
+      "author_image": "https://i.ibb.co/k5bsJVP/ai-generated-8432074-1280.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/kgbTSGP/portrait-woman-home-meditating.jpg",
+      "title": "The Art of Mindful Living: A Journey to Inner Peace",
+      "description": "Embark on a mindful living journey with practical tips and insights. Explore mindfulness practices that can bring peace and balance to your daily life.",
+      "author_name": "David Johnson",
+      "author_designation": "Mindfulness Coach",
+      "author_image": "https://i.ibb.co/g711zS4/young-bearded-man-with-striped-shirt.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/WyWQGq1/close-up-customers-looking-food.jpg",
+      "title": "Culinary Adventures: A Global Gastronomic Tour",
+      "description": "Take a culinary journey around the world with this blog. From street food delights to gourmet experiences, explore the diverse and delicious world of global cuisine.",
+      "author_name": "Isabella Martinez",
+      "author_designation": "Food Traveler and Blogger",
+      "author_image": "https://i.ibb.co/GchwSwQ/ai-generated-8445715-1280.png"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/VBDV7y6/person-using-ai-tool-job.jpg",
+      "title": "Exploring the Wonders of Artificial Intelligence",
+      "description": "Discover the fascinating world of artificial intelligence and its impact on various industries. This blog delves into the latest advancements and the future possibilities of AI.",
+      "author_name": "Alexandra Smith",
+      "author_designation": "AI Enthusiast and Researcher",
+      "author_image": "https://i.ibb.co/k5bsJVP/ai-generated-8432074-1280.jpg"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/kgbTSGP/portrait-woman-home-meditating.jpg",
+      "title": "The Art of Mindful Living: A Journey to Inner Peace",
+      "description": "Embark on a mindful living journey with practical tips and insights. Explore mindfulness practices that can bring peace and balance to your daily life.",
+      "author_name": "David Johnson",
+      "author_designation": "Mindfulness Coach",
+      "author_image": "https://i.ibb.co/g711zS4/young-bearded-man-with-striped-shirt.jpg"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/WyWQGq1/close-up-customers-looking-food.jpg",
+      "title": "Culinary Adventures: A Global Gastronomic Tour",
+      "description": "Take a culinary journey around the world with this blog. From street food delights to gourmet experiences, explore the diverse and delicious world of global cuisine.",
+      "author_name": "Isabella Martinez",
+      "author_designation": "Food Traveler and Blogger",
+      "author_image": "https://i.ibb.co/GchwSwQ/ai-generated-8445715-1280.png"
+    }
+  ]
+  

@@ -1,10 +1,10 @@
 
 const Banner = () => {
     return (
-        <div className="hero my-16">
+        <div className="hero my-28">
             <div className="hero-content flex-col lg:flex-row gap-10">
                 <div className="flex-1">
-                    <img src="https://i.ibb.co/QfXgqZg/business-conference-vr-office.jpg" className="max-w-xl rounded-lg" />
+                    <img src="https://i.ibb.co/QfXgqZg/business-conference-vr-office.jpg" className="lg:max-w-xl rounded-lg" />
                 </div>                <div>
                     <div className="flex-1">
                         <h1 className="text-3xl font-bold">Social Media!</h1>
