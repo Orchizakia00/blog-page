@@ -2,13 +2,23 @@
 
 const Blog = ({ blog }) => {
     return (
-        <div className="card card-compact w-96 bg-base-100 shadow-xl">
-            <figure><img src={blog.image} alt="Shoes" /></figure>
+        <div className="card card-compact w-96 bg-base-100">
+            <figure><img src={blog.image} className="w-[350px] h-[300px] rounded-xl" alt="Shoes" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{blog.title}</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
-                <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Buy Now</button>
+                <p>{blog.description}</p>
+                <div className="card-actions justify-start mt-4">
+                    <div className="flex items-center gap-5">
+                        <div className="avatar">
+                            <div className="w-12 rounded-full">
+                               <img src={blog.author_image} />
+                            </div>
+                        </div>
+                        <div>
+                            <p className="font-bold">{blog.author_name}</p>
+                            <p>{blog.author_designation}</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
