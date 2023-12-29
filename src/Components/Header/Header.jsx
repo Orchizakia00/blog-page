@@ -7,7 +7,7 @@ const Header = () => {
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
             <div className="mt-6">
                 <div className="relative left-[560px] top-[33px] z-10"><FaSearch /></div>
-                <div className="fixed w-full mx-auto"><input type="text" placeholder="       Search Our Blog With Topic or Keyword" className="input input-bordered w-full max-w-md bg-base-200 border-none" /></div>
+                <div className=" w-full mx-auto"><input type="text" placeholder="         Search Our Blog With Topic or Keyword" className="input input-bordered w-full max-w-md bg-base-200 border-none" /></div>
             </div>
         </div>
     );
